@@ -1,6 +1,6 @@
 {
-  "versionCode": 124,
-  "versionName": "3.3",
-  "whatsNew": "Automatic update check: Sweet TTS now tells you when a new version is ready and opens the download page with one tap. Also includes the Phone speaker for speech toggle (speech on the phone speaker while music stays on Bluetooth) and the Android 10 and 11 crash fix.",
-  "releaseUrl": "https://github.com/swarup-developer/sweet-tts/releases/tag/v3.3"
+  "versionCode": 125,
+  "versionName": "3.4",
+  "whatsNew": "What's New is cleaned up: it now shows only Sweet TTS's own notes. Also fixes installation on Android 10 and 11, so updates install in place with settings kept.",
+  "releaseUrl": "https://github.com/swarup-developer/sweet-tts/releases/tag/v3.4"
 }
