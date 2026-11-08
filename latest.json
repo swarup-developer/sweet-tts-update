@@ -1,10 +1,10 @@
 {
-  "versionCode": 128,
-  "versionName": "3.7",
-  "whatsNew": "• Updates are now fully automatic: Sweet TTS downloads the new version inside the app and the installer opens by itself.\n• No more browser step when updating - tap Download and everything else happens on its own.\n• Installs in place: your settings are kept.",
-  "releaseUrl": "https://github.com/swarup-developer/sweet-tts/releases/tag/v3.7",
-  "releaseUrlArm64": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.7/Sweet.TTS.3.7.arm64.apk",
-  "releaseUrlArm32": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.7/Sweet.TTS.3.7.armv7.apk",
-  "apiUrlArm64": "https://api.github.com/repos/swarup-developer/sweet-tts/releases/assets/724665037",
-  "apiUrlArm32": "https://api.github.com/repos/swarup-developer/sweet-tts/releases/assets/724665184"
+  "versionCode": 129,
+  "versionName": "3.8",
+  "whatsNew": "• The app is now much smaller: about 9 MB instead of 76 MB.\n• Voices download once on first open (about 47 MB), straight inside the app.\n• Updates are fully automatic and no longer need any sign-in.\n• Installs in place: your settings are kept.",
+  "releaseUrl": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.8/Sweet.TTS.3.8.apk",
+  "releaseUrlArm64": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.8/Sweet.TTS.3.8.apk",
+  "releaseUrlArm32": "",
+  "apiUrlArm64": "",
+  "apiUrlArm32": ""
 }
