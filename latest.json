@@ -1,8 +1,10 @@
 {
-  "versionCode": 126,
-  "versionName": "3.5",
-  "whatsNew": "• Smaller download: only the files your phone needs.\n• Update prompt appears as soon as the app opens.\n• Download and Later are now separate buttons.\n• Installs in place: your settings are kept.",
-  "releaseUrl": "https://github.com/swarup-developer/sweet-tts/releases/tag/v3.5",
-  "releaseUrlArm64": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.5/Sweet.TTS.3.5.arm64.apk",
-  "releaseUrlArm32": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.5/Sweet.TTS.3.5.armv7.apk"
+  "versionCode": 127,
+  "versionName": "3.6",
+  "whatsNew": "• Updates download inside the app - the installer opens by itself.\n• No more browser step for updates.\n• Installs in place: your settings are kept.",
+  "releaseUrl": "https://github.com/swarup-developer/sweet-tts/releases/tag/v3.6",
+  "releaseUrlArm64": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.6/Sweet.TTS.3.6.arm64.apk",
+  "releaseUrlArm32": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.6/Sweet.TTS.3.6.armv7.apk",
+  "apiUrlArm64": "https://api.github.com/repos/swarup-developer/sweet-tts/releases/assets/724539815",
+  "apiUrlArm32": "https://api.github.com/repos/swarup-developer/sweet-tts/releases/assets/724540001"
 }
