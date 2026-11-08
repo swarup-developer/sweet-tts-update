@@ -1,6 +1,8 @@
 {
-  "versionCode": 125,
-  "versionName": "3.4",
-  "whatsNew": "What's New is cleaned up: it now shows only Sweet TTS's own notes. Also fixes installation on Android 10 and 11, so updates install in place with settings kept.",
-  "releaseUrl": "https://github.com/swarup-developer/sweet-tts/releases/tag/v3.4"
+  "versionCode": 126,
+  "versionName": "3.5",
+  "whatsNew": "• Smaller download: only the files your phone needs.\n• Update prompt appears as soon as the app opens.\n• Download and Later are now separate buttons.\n• Installs in place: your settings are kept.",
+  "releaseUrl": "https://github.com/swarup-developer/sweet-tts/releases/tag/v3.5",
+  "releaseUrlArm64": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.5/Sweet.TTS.3.5.arm64.apk",
+  "releaseUrlArm32": "https://github.com/swarup-developer/sweet-tts/releases/download/v3.5/Sweet.TTS.3.5.armv7.apk"
 }
